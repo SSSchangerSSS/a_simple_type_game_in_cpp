@@ -2,6 +2,7 @@
 a simple typing game in cpp
 
 it has three diffrent difficulity level
+
 real time (with no time lib)
 
 یک بازی تایپ ساده در سی پلاس پلاس
